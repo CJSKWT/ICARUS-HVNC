@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{24E7E5B3-D3E2-4D8D-B150-1BFE48A58600}") = "ICARUS", "ICARUS.csproj", "{6819FF17-A545-4F36-9CB5-A69F6F88E4A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6819FF17-A545-4F36-9CB5-A69F6F88E4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6819FF17-A545-4F36-9CB5-A69F6F88E4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6819FF17-A545-4F36-9CB5-A69F6F88E4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6819FF17-A545-4F36-9CB5-A69F6F88E4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12327CF3-F7A0-497C-A199-A3E8DAE8C8E0}
+	EndGlobalSection
+EndGlobal
